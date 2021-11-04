@@ -34,7 +34,7 @@ or short
 git checkout -b newBranchName  
 
 push branch  
-git push --set-upstream origin extend111  
+git push --set-upstream origin newBranchName  
 
 switch branch: git checkout yourBranch (with check)  
 switch branch: git switch yourBranch  
