@@ -26,3 +26,19 @@ type: :x [enter] (to save en exit.)
 go to https://desktop.github.com/
 download GitHub Desktop for windows 64bit
 
+New branch (create and switch)
+git branch newBranchName
+git checkout newBranchName
+
+or short
+git checkout -b newBranchName
+
+push branch
+git push --set-upstream origin extend111
+
+switch branch: git checkout yourBranch (with check)
+switch branch: git switch yourBranch
+
+Pull request in Git
+A pull request is an event in Git where a contributor asks a maintainer of a Git repository to review code they want to merge into a project.
+
