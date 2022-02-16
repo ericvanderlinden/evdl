@@ -7,10 +7,10 @@ Last question: start bash. Yes.
 Pin MINGW64 to taskbar.  
 The MINGW64 Bash starts in P: (Your personal directory in Huygens infrastructure).   
 
-type: cd Documents [enter]  (The directory in P: that hold your documents)
-type: mkdir yourDirName [enter]  (Create a directory that will hold your git dir.)
+type: cd Documents [enter]  (The directory in P: that hold your documents). 
+type: mkdir yourDirName [enter]  (Create a directory that will hold your git dir.)   
 type: cd yourDirName [enter]  
---
+
 
 -> in CMD type: conda install -c conda-forge jupyterlab [enter]  
 -> [y/n] type y  
